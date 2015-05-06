@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">True That</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_complete_task">CompleteTask</string>
+    <string name="title_activity_create_task">CreateTask</string>
+    <string name="title_activity_view_tasks">ViewTasks</string>
+    <string name="title_activity_view_completed_task">ViewCompletedTask</string>
+    <string name="title_activity_list_completed_tasks">ListCompletedTasks</string>
+    <string name="tap">Tap the image to open the camera!!</string>
+    <color name="White">#FFFFFFFF</color>
+
+</resources>
